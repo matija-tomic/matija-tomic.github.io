@@ -23,7 +23,7 @@ repository               : "matija-tomic/matija-tomic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Matija Tomić"
   pronouns         : # example: "she/her"  
   bio              : "Mathematician and Electrical Engineer"
