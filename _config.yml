@@ -18,6 +18,7 @@ url                      : https://matija-tomic.github.io # The base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matija-tomic/matija-tomic.github.io"
 
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -26,7 +27,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Matija Tomić"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician and Electrical Engineer"
+  bio              : "PhD "
   location         : "Vancouver, BC, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
@@ -38,10 +39,10 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0006-7664-2888 # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
