@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Matija Tomic / PhD Student in Mathematics at the University of British Columbia"
+title                    : "Matija Tomic"
 title_separator          : "-"
 name                     : &name "Matija Tomic"
 description              : &description "Matija Tomic's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Matija Tomic"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Applied Mathematics"
-  location         : "Vancouver, Canada"
-  employer         : "University of British Columbia"
+  bio              : "PhD Student in Applied Mathematics at the University of British Columbia, Vancouver, Canada"
+  location         : #"Vancouver, Canada"
+  employer         : #"University of British Columbia"
   uri              : # URL
   email            : "matija.tomic@math.ubc.ca" 
 
